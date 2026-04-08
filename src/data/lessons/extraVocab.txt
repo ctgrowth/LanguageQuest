@@ -1,0 +1,1360 @@
+SECTION zh
+Account|账户|zhànghù
+Ahead|前面|qiánmiàn
+Airport|机场|jīchǎng
+Angry|生气|shēngqì
+Animal|动物|dòngwù
+App|应用|yìngyòng
+Apple|苹果|píngguǒ
+April|四月|sìyuè
+August|八月|bāyuè
+Bad|坏|huài
+Banana|香蕉|xiāngjiāo
+Bank|银行|yínháng
+Banknote|纸币|zhǐbì
+Bathroom|浴室|yùshì
+Battery|电池|diànchí
+Beautiful|美丽|měilì
+Bed|床|chuáng
+Behind|后面|hòumiàn
+Between|之间|zhījiān
+Bill|账单|zhàngdān
+Bird|鸟|niǎo
+Blanket|毯子|tǎnzi
+Booking|预订|yùdìng
+Bus|公共汽车|gōnggòng qìchē
+Calm|平静|píngjìng
+Cap|帽子|màozi
+Car|汽车|qìchē
+Card|卡|kǎ
+Carrot|胡萝卜|húluóbo
+Cat|猫|māo
+Chair|椅子|yǐzi
+Cheap|便宜|piányi
+City|城市|chéngshì
+Clean|干净|gānjìng
+Clothes|衣服|yīfu
+Coffee|咖啡|kāfēi
+Coin|硬币|yìngbì
+Cold|冷|lěng
+Computer|电脑|diànnǎo
+Cow|牛|niú
+Coworker|同事|tóngshì
+Cricket|蟋蟀|xīshuài
+Cucumber|黄瓜|huánggua
+Danger|危险|wēixiǎn
+Day after tomorrow / Day before yesterday|后天／前天|hòutiān／qiántiān
+December|十二月|shí'èryuè
+Delicious|好吃|hǎochī
+Deposit|存款|cúnkuǎn
+Discount|折扣|zhékòu
+Doctor|医生|yīshēng
+Dog|狗|gǒu
+Door|门|mén
+Ear|耳朵|ěrduo
+Eighteen|十八|shíbā
+Eighty|八十|bāshí
+Elephant|大象|dàxiàng
+Eleven|十一|shíyī
+Email|电子邮件|diànzǐ yóujiàn
+Excited|兴奋|xīngfèn
+Expensive|贵|guì
+Eye|眼睛|yǎnjing
+Fabric / cloth|布料|bùliào
+Face|脸|liǎn
+Fear|害怕|hàipà
+February|二月|èryuè
+Fever|发烧|fāshāo
+Fifteen|十五|shíwǔ
+Fifty|五十|wǔshí
+Fish|鱼|yú
+Flatbread|薄饼|báobǐng
+Flight|航班|hángbān
+Flower|花|huā
+Fog|雾|wù
+Food (meal)|饭|fàn
+Foot/leg|脚|jiǎo
+Football|足球|zúqiú
+Fork|叉子|chāzi
+Forty|四十|sìshí
+Fourteen|十四|shísì
+Friday|星期五|xīngqīwǔ
+Game|游戏|yóuxì
+Gate|登机口|dēngjīkǒu
+Glass|玻璃|bōli
+Gloves|手套|shǒutào
+Go straight|直走|zhízǒu
+Goat|山羊|shānyáng
+Good|好|hǎo
+Grapes|葡萄|pútáo
+Hair|头发|tóufa
+Hand|手|shǒu
+Happy|高兴|gāoxìng
+Hat|帽子|màozi
+Head|头|tóu
+Health|健康|jiànkāng
+Help|帮助|bāngzhù
+Horse|马|mǎ
+Hospital|医院|yīyuàn
+Hot|热|rè
+How much is this?|这个多少钱？|Zhège duōshao qián?
+Humidity|湿度|shīdù
+I am calm|我很平静|Wǒ hěn píngjìng
+I am happy|我很开心|Wǒ hěn kāixīn
+I am in the city|我在城市里|Wǒ zài chéngshì lǐ
+I am traveling|我在旅行|Wǒ zài lǚxíng
+I go|我去|Wǒ qù
+I go to the office|我去办公室|Wǒ qù bàngōngshì
+I have pain|我疼|Wǒ téng
+I need help|我需要帮助|Wǒ xūyào bāngzhù
+I want a menu|我要菜单|Wǒ yào cāidān
+I want a room|我要一个房间|Wǒ yào yī gè fángjiān
+I want mango|我要芒果|Wǒ yào mángguǒ
+I want salt|我要盐|Wǒ yào yán
+I want tea|我要茶|Wǒ yào chá
+I want to withdraw money|我要取钱|Wǒ yào qǔqián
+I watch movies|我看电影|Wǒ kàn diànyǐng
+Inside|里面|lǐmiàn
+Internet|互联网|hùliánwǎng
+Intersection|十字路口|shízì lùkǒu
+It is raining today|今天下雨|Jīntiān xiàyǔ
+Jacket|夹克|jiákè
+January|一月|yīyuè
+Job|工作|gōngzuò
+Juice|果汁|guǒzhī
+July|七月|qīyuè
+June|六月|liùyuè
+Key|钥匙|yàoshi
+Kitchen|厨房|chúfáng
+Knife|刀|dāo
+Left|左|zuǒ
+Lightning|闪电|shǎndiàn
+Lion|狮子|shīzi
+Loss|损失|sǔnshī
+Love|爱|ài
+Luggage|行李|xíngli
+Mango|芒果|mángguǒ
+Map|地图|dìtú
+March|三月|sānyuè
+May|五月|wǔyuè
+Medicine|药|yào
+Meeting|会议|huìyì
+Menu|菜单|cāidān
+Monday|星期一|xīngqīyī
+Money|钱|qián
+Mountain|山|shān
+Movie|电影|diànyǐng
+Music|音乐|yīnyuè
+My head hurts|我头疼|Wǒ tóu téng
+Near|附近|fùjìn
+Nervousness|紧张|jǐnzhāng
+New|新|xīn
+Nineteen|十九|shíjiǔ
+Ninety|九十|jiǔshí
+Nose|鼻子|bízi
+November|十一月|shíyīyuè
+October|十月|shíyuè
+Office|办公室|bàngōngshì
+Old|旧|jiù
+On / above|在……上面|zài… shàngmian
+One hundred|一百|yībǎi
+Onion|洋葱|yángcōng
+Outside|外面|wàimiàn
+Pain|疼痛|téngtòng
+Pants|裤子|kùzi
+Park|公园|gōngyuán
+Passport|护照|hùzhào
+Password|密码|mìmǎ
+Pet|宠物|chǒngwù
+Phone|电话|diànhuà
+Plate|盘子|pánzi
+Please repeat|请重复|Qǐng chóngfù
+Please tell me|请告诉我|Qǐng gàosu wǒ
+Police|警察|jǐngchá
+Pomegranate|石榴|shíliu
+Potato|土豆|tǔdòu
+Price|价格|jiàgé
+Pride|骄傲|jiāo'ào
+Reception|前台|qiántái
+Rest|休息|xiūxi
+Restaurant|餐厅|cāntīng
+Right|右|yòu
+River|河|hé
+Road|路|lù
+Room|房间|fángjiān
+Run / race|跑步|pǎobù
+Rupee|卢比|lǔbǐ
+Sad|难过|nánguò
+Salt|盐|yán
+Saturday|星期六|xīngqīliù
+Scarf|围巾|wéijīn
+Sea|海|hǎi
+Security|安全|ānquán
+September|九月|jiǔyuè
+Seventeen|十七|shíqī
+Seventy|七十|qīshí
+Shame|羞愧|xiūkuì
+Shirt|衬衫|chènshān
+Shoes|鞋|xié
+Shop|商店|shāngdiàn
+Short|短|duǎn
+Sixteen|十六|shíliù
+Sixty|六十|liùshí
+Sky|天空|tiānkōng
+Snow|雪|xuě
+Soap|肥皂|féizào
+Socks|袜子|wàzi
+Soda|汽水|qìshuǐ
+Spinach|菠菜|bōcài
+Spoon|勺子|sháozi
+Storm|暴风雨|bàofēngyǔ
+Straight|直的|zhí de
+Sunday|星期日|xīngqīrì
+Sweater|毛衣|máoyī
+Table|桌子|zhuōzi
+Tall|高|gāo
+Taxi|出租车|chūzūchē
+Team|队|duì
+Terminal|航站楼|hángzhànlóu
+The battery is low|电池快没电了|Diànchí kuài méi diàn le
+Thirteen|十三|shísān
+Thirty|三十|sānshí
+This is a lion|这是狮子|Zhè shì shīzi
+This is a river|这是河|Zhè shì hé
+This is a tomato|这是西红柿|Zhè shì xīhóngshì
+This is beautiful|这很美丽|Zhè hěn měilì
+This is expensive|这很贵|Zhè hěn guì
+This is good|这很好|Zhè hěn hǎo
+This is inside|这是在里面|Zhè shì zài lǐmiàn
+This is my chair|这是我的椅子|Zhè shì wǒ de yǐzi
+This is my dog|这是我的狗|Zhè shì wǒ de gǒu
+This is my home|这是我的家|Zhè shì wǒ de jiā
+This is my jacket|这是我的夹克|Zhè shì wǒ de jiákè
+This is my shirt|这是我的衬衫|Zhè shì wǒ de chènshān
+Thunder|雷|léi
+Thursday|星期四|xīngqīsì
+Ticket|票|piào
+Tired|累|lèi
+To ask|问|wèn
+To buy|买|mǎi
+To come|来|lái
+To dance|跳舞|tiàowǔ
+To do|做|zuò
+To drink|喝|hē
+To eat|吃|chī
+To go|去|qù
+To listen|听|tīng
+To read|读|dú
+To roam / hang out|闲逛|xiánguàng
+To see|看|kàn
+To sell|卖|mài
+To speak|说|shuō
+To understand|明白|míngbai
+To withdraw|取|qǔ
+Tomato|西红柿|xīhóngshì
+Tomorrow / Yesterday|明天／昨天|míngtiān／zuótiān
+Tour|旅游|lǚyóu
+Towel|毛巾|máojīn
+Train|火车|huǒchē
+Travel|旅行|lǚxíng
+Tree|树|shù
+Tuesday|星期二|xīngqī'èr
+Twelve|十二|shí'èr
+Twenty|二十|èrshí
+Under|下面|xiàmiàn
+We won|我们赢了|Wǒmen yíng le
+Wednesday|星期三|xīngqīsān
+Where is my gate?|我的登机口在哪里？|Wǒ de dēngjīkǒu zài nǎlǐ?
+Where is the station?|火车站在哪里？|Huǒchēzhàn zài nǎlǐ?
+Win|赢|yíng
+Window|窗户|chuānghu
+Work|工作|gōngzuò
+Worry|担心|dānxīn
+SECTION ar
+Account|حساب|hisab
+Ahead|أمام|amam
+Airport|مطار|matar
+Angry|غاضب|ghadib
+Animal|حيوان|hayawan
+App|تطبيق|tatbiq
+Apple|تفاحة|tuffaha
+April|أبريل|abril
+August|آب|ab
+Bad|سيء|sayyi
+Banana|موز|mawz
+Bank|بنك|bank
+Banknote|ورقة نقدية|waraqa naqdiya
+Bathroom|حمّام|hammam
+Battery|بطارية|battariya
+Beautiful|جميل|jamil
+Bed|سرير|sarir
+Behind|وراء|wara
+Between|بين|bayn
+Bill|فاتورة|fatura
+Bird|طائر|tayir
+Blanket|بطانية|battaniya
+Booking|حجز|hajz
+Bus|حافلة|hafila
+Calm|هادئ|hadi
+Cap|طاقية|taqiya
+Car|سيارة|sayyara
+Card|بطاقة|bitaqa
+Carrot|جزر|jazar
+Cat|قطة|qitta
+Chair|كرسي|kursi
+Cheap|رخيص|rakhis
+City|مدينة|madina
+Clean|نظيف|nazif
+Clothes|ملابس|malabis
+Coffee|قهوة|qahwa
+Coin|عملة|umla
+Cold|بارد|barid
+Computer|حاسوب|hasub
+Cow|بقرة|baqara
+Coworker|زميل في العمل|zamil fi al-amal
+Cricket|صرصور الليل|sursur al-layl
+Cucumber|خيار|khiyar
+Danger|خطر|khatar
+Day after tomorrow / Day before yesterday|بعد غد／أول أمس|ba3d ghad／awwal ams
+December|ديسمبر|disambar
+Delicious|لذيذ|ladhdh
+Deposit|وديعة|wadia
+Discount|خصم|khasm
+Doctor|طبيب|tabib
+Dog|كلب|kalb
+Door|باب|bab
+Ear|أذن|udhun
+Eighteen|ثمانية عشر|thamaniyat ashar
+Eighty|ثمانون|thamanun
+Elephant|فيل|fil
+Eleven|أحد عشر|ahad ashar
+Email|بريد إلكتروني|barid iliktiruni
+Excited|متحمّس|mutahammis
+Expensive|غالي|ghali
+Eye|عين|ayn
+Fabric / cloth|قماش|qumash
+Face|وجه|wajh
+Fear|خوف|khawf
+February|فبراير|fabrayir
+Fever|حمّى|humma
+Fifteen|خمسة عشر|khamsat ashar
+Fifty|خمسون|khamsun
+Fish|سمك|samak
+Flatbread|روتي|ruti
+Flight|رحلة|rihla
+Flower|زهرة|zahra
+Fog|ضباب|dubab
+Food (meal)|طعام|taam
+Foot/leg|رجل|rijl
+Football|كرة القدم|kurat al-qadam
+Fork|شوكة|shawka
+Forty|أربعون|arbaun
+Fourteen|أربعة عشر|arbaat ashar
+Friday|الجمعة|al-jumua
+Game|لعبة|luaba
+Gate|بوابة|bwaba
+Glass|زجاج|zujaj
+Gloves|قفازات|qifazat
+Go straight|امشي مستقيما|imshi mustaqiman
+Goat|ماعز|maiz
+Good|جيّد|jayyid
+Grapes|عنب|inab
+Hair|شعر|shar
+Hand|يد|yad
+Happy|سعيد|sa'id
+Hat|قبعة|qubba
+Head|رأس|ras
+Health|صحة|sihha
+Help|مساعدة|musaada
+Horse|حصان|hisan
+Hospital|مستشفى|mustashfa
+Hot|حار|harr
+How much is this?|كم ثمن هذا؟|kam thaman hadha?
+Humidity|رطوبة|rutba
+I am calm|أنا هادئ|ana hadi
+I am happy|أنا سعيد|ana sa'id
+I am in the city|أنا في المدينة|ana fi al-madina
+I am traveling|أسافر|asafir
+I go|أذهب|adhhab
+I go to the office|أذهب إلى المكتب|adhhab ila al-maktab
+I have pain|أشعر بألم|ashur bi-alam
+I need help|أحتاج إلى مساعدة|ahtaj ila musaada
+I want a menu|أريد قائمة الطعام|urid qaimat al-taam
+I want a room|أريد غرفة|urid ghurfa
+I want mango|أريد مانجو|urid manju
+I want salt|أريد ملح|urid milh
+I want tea|أريد شايًا|urid shayan
+I want to withdraw money|أريد سحب المال|urid sahb al-mal
+I watch movies|أشاهد الأفلام|ushahid al-aflam
+Inside|داخل|dakhil
+Internet|إنترنت|internet
+Intersection|تقاطع|taqatu
+It is raining today|إنه يمطر اليوم|innahu yamtur al-yawm
+Jacket|سترة|sutra
+January|يناير|yanayir
+Job|وظيفة|wazhifa
+Juice|عصير|asir
+July|يوليو|yulyu
+June|يونيو|yunyu
+Key|مفتاح|miftah
+Kitchen|مطبخ|matbakh
+Knife|سكين|sakin
+Left|يسار|yasar
+Lightning|برق|barq
+Lion|أسد|asad
+Loss|خسارة|khasara
+Love|حب|hubb
+Luggage|أمتعة|amti'a
+Mango|مانجو|manju
+Map|خريطة|kharitha
+March|مارس|marris
+May|مايو|mayu
+Medicine|دواء|dawa
+Meeting|اجتماع|ijtima
+Menu|قائمة الطعام|qaimat al-taam
+Monday|الإثنين|al-ithnayn
+Money|مال|mal
+Mountain|جبل|jabal
+Movie|فيلم|film
+Music|موسيقى|musiqa
+My head hurts|يؤلمني رأسي|yu'alimuni ra'si
+Near|قريب|qarib
+Nervousness|توتر|tawattur
+New|جديد|jadid
+Nineteen|تسعة عشر|tisat ashar
+Ninety|تسعون|tisun
+Nose|أنف|anf
+November|نوفمبر|nufimbir
+October|أكتوبر|uktubar
+Office|مكتب|maktab
+Old|قديم|qadim
+On / above|فوق|fawqa
+One hundred|مئة|mia
+Onion|بصل|basal
+Outside|خارج|kharij
+Pain|ألم|alam
+Pants|بنطال|bintal
+Park|حديقة|hadiqa
+Passport|جواز سفر|jawaz safar
+Password|كلمة مرور|kalimat murur
+Pet|حيوان أليف|hayawan alif
+Phone|هاتف|hatif
+Plate|صحن|sahn
+Please repeat|كرر من فضلك|karir min fadlak
+Please tell me|أخبرني من فضلك|ukhbirni min fadlak
+Police|شرطة|shurta
+Pomegranate|رمان|rumman
+Potato|بطاطا|batata
+Price|سعر|sicr
+Pride|فخر|fakhr
+Reception|استقبال|istiqbal
+Rest|راحة|raha
+Restaurant|مطعم|matam
+Right|يمين|yamin
+River|نهر|nahr
+Road|طريق|tariq
+Room|غرفة|ghurfa
+Run / race|يجري / يتسابق|yajri / yatasabiq
+Rupee|روبية|rubiya
+Sad|حزين|hazin
+Salt|ملح|milh
+Saturday|السبت|as-sabt
+Scarf|وشاح|wishah
+Sea|بحر|bahr
+Security|أمن|amn
+September|سبتمبر|sibtambir
+Seventeen|سبعة عشر|sabat ashar
+Seventy|سبعون|sabun
+Shame|خجل|khajal
+Shirt|قميص|qamis
+Shoes|أحذية|ahdhiya
+Shop|متجر|matjar
+Short|قصير|qasir
+Sixteen|ستة عشر|sittat ashar
+Sixty|ستون|sittun
+Sky|سماء|sama
+Snow|ثلج|thalj
+Soap|صابون|sabun
+Socks|جوارب|jawarib
+Soda|مشروب غازي|mashrub ghazi
+Spinach|سبانخ|sibanikh
+Spoon|ملعقة|milaqa
+Storm|عاصفة|asifa
+Straight|مستقيم|mustaqim
+Sunday|الأحد|al-ahad
+Sweater|سترة صوفية|sutra sufiya
+Table|طاولة|tawila
+Tall|طويل|tawil
+Taxi|سيارة أجرة|sayyarat ujra
+Team|فريق|fariq
+Terminal|مبنى الرحلات|mabna ar-rihlat
+The battery is low|البطارية منخفضة|al-battariya munakhafida
+Thirteen|ثلاثة عشر|thalathat ashar
+Thirty|ثلاثون|thalathun
+This is a lion|هذا أسد|hadha asad
+This is a river|هذا نهر|hadha nahr
+This is a tomato|هذا طماطم|hadha tamatim
+This is beautiful|هذا جميل|hadha jamil
+This is expensive|هذا غالي|hadha ghali
+This is good|هذا جيّد|hadha jayyid
+This is inside|هذا في الداخل|hadha fi ad-dakhil
+This is my chair|هذا كرسيي|hadha kursiyyi
+This is my dog|هذا كلبي|hadha kalbi
+This is my home|هذا بيتي|hadha bayti
+This is my jacket|هذا سترتي|hadha sutrati
+This is my shirt|هذا قميصي|hadha qamisi
+Thunder|رعد|rad
+Thursday|الخميس|al-khamis
+Ticket|تذكرة|tadhkira
+Tired|تعبان|taban
+To ask|يسأل|yasal
+To buy|يشتري|yashtari
+To come|يأتي|yati
+To dance|يرقص|yarqus
+To do|يفعل|yafal
+To drink|يشرب|yashrab
+To eat|يأكل|yakul
+To go|يذهب|yadhhab
+To listen|يستمع|yastami
+To read|يقرأ|yaqra
+To roam / hang out|يتجوّل|yatajawwal
+To see|يرى|yara
+To sell|يبيع|yabi
+To speak|يتكلّم|yatakallam
+To understand|يفهم|yafham
+To withdraw|يسحب|yasahb
+Tomato|طماطم|tamatim
+Tomorrow / Yesterday|غد／أمس|ghad／ams
+Tour|جولة|jawla
+Towel|منشفة|munshafa
+Train|قطار|qitar
+Travel|سفر|safar
+Tree|شجرة|shajara
+Tuesday|الثلاثاء|ath-thulatha
+Twelve|اثنا عشر|ithna ashar
+Twenty|عشرون|ishrun
+Under|تحت|taht
+We won|فزنا|fazna
+Wednesday|الأربعاء|al-arbia
+Where is my gate?|أين بوابتي؟|ayn bwabati?
+Where is the station?|أين المحطة؟|ayn al-mahatta?
+Win|يفوز|yafuz
+Window|نافذة|nafitha
+Work|عمل|amal
+Worry|قلق|qalaq
+SECTION he
+Account|חשבון|cheshbon
+Ahead|קדימה|kedima
+Airport|שדה תעופה|sde te'ufa
+Angry|כועס|ko'es
+Animal|חיה|chaya
+App|אפליקציה|aplikatsya
+Apple|תפוח|tapuach
+April|אפריל|april
+August|אוגוסט|august
+Bad|רע|ra
+Banana|בננה|banana
+Bank|בנק|bank
+Banknote|שטר כסף|shet kesef
+Bathroom|אמבטיה|ambatya
+Battery|סוללה|solala
+Beautiful|יפה|yafe
+Bed|מיטה|mita
+Behind|מאחורי|me'achorei
+Between|בין|bein
+Bill|חשבונית|cheshbonit
+Bird|ציפור|tzipor
+Blanket|שמיכה|smicha
+Booking|הזמנה|hazmana
+Bus|אוטובוס|otobus
+Calm|רגוע|ragua
+Cap|כובע צמוד|kove tzamud
+Car|מכונית|mechonit
+Card|כרטיס|kartis
+Carrot|גזר|gezer
+Cat|חתול|chatul
+Chair|כיסא|kise
+Cheap|זול|zol
+City|עיר|ir
+Clean|נקי|naki
+Clothes|בגדים|bgadim
+Coffee|קפה|kafe
+Coin|מטבע|matbea
+Cold|קר|kar
+Computer|מחשב|machshev
+Cow|פרה|para
+Coworker|עמית לעבודה|amit la'avoda
+Cricket|צרצר|tzartzar
+Cucumber|מלפפון|melafefon
+Danger|סכנה|sakana
+Day after tomorrow / Day before yesterday|מחרתיים／שלשום|macharataim／shilshom
+December|דצמבר|detzember
+Delicious|טעים|tayim
+Deposit|הפקדה|hafkada
+Discount|הנחה|hanacha
+Doctor|רופא|rofe
+Dog|כלב|kelev
+Door|דלת|delet
+Ear|אוזן|ozen
+Eighteen|שמונה עשרה|shmone esre
+Eighty|שמונים|shmonim
+Elephant|פיל|pil
+Eleven|אחת עשרה|chat esre
+Email|דוא"ל|do'ar elektaroni
+Excited|נרגש|nirgash
+Expensive|יקר|yakar
+Eye|עין|ayin
+Fabric / cloth|בד|bad
+Face|פנים|panim
+Fear|פחד|pachad
+February|פברואר|februar
+Fever|חום|chom
+Fifteen|חמש עשרה|chamesh esre
+Fifty|חמישים|chamishim
+Fish|דג|dag
+Flatbread|פיתה|pita
+Flight|טיסה|tisa
+Flower|פרח|perach
+Fog|ערפל|arafel
+Food (meal)|אוכל|ochel
+Foot/leg|רגל|regel
+Football|כדורגל|kaduregel
+Fork|מזלג|mazleg
+Forty|ארבעים|arba'im
+Fourteen|ארבע עשרה|arba esre
+Friday|יום שישי|yom shishi
+Game|משחק|mischak
+Gate|שער עלייה|sha'ar aliya
+Glass|זכוכית|zechuchit
+Gloves|כפפות|kfafot
+Go straight|לך ישר|lech yashar
+Goat|עז|ez
+Good|טוב|tov
+Grapes|ענבים|anavim
+Hair|שיער|se'ar
+Hand|יד|yad
+Happy|שמח|sameach
+Hat|כובע|kova
+Head|ראש|rosh
+Health|בריאות|briut
+Help|עזרה|ezra
+Horse|סוס|sus
+Hospital|בית חולים|beit cholim
+Hot|חם|cham
+How much is this?|כמה זה עולה?|kama ze ole?
+Humidity|לחות|lachut
+I am calm|אני רגוע|ani ragua
+I am happy|אני שמח|ani sameach
+I am in the city|אני בעיר|ani ba'ir
+I am traveling|אני מטייל|ani metayel
+I go|אני הולך|ani holech
+I go to the office|אני הולך למשרד|ani holech la'misrad
+I have pain|יש לי כאב|yesh li ke'ev
+I need help|אני צריך עזרה|ani tsarich ezra
+I want a menu|אני רוצה תפריט|ani rotze tafrit
+I want a room|אני רוצה חדר|ani rotze cheder
+I want mango|אני רוצה מנגו|ani rotze mango
+I want salt|אני רוצה מלח|ani rotze melach
+I want tea|אני רוצה תה|ani rotze te
+I want to withdraw money|אני רוצה למשוך כסף|ani rotze limshoch kesef
+I watch movies|אני צופה בסרטים|ani tzofeh ba'seretim
+Inside|בפנים|bifnim
+Internet|אינטרנט|internet
+Intersection|צומת|tzomet
+It is raining today|יורד גשם היום|yored geshem hayom
+Jacket|ז'קט|jaket
+January|ינואר|yanuar
+Job|עבודה|avoda
+Juice|מיץ|mitz
+July|יולי|yuli
+June|יוני|yuni
+Key|מפתח|mafte'ach
+Kitchen|מטבח|mitbach
+Knife|סכין|sakin
+Left|שמאל|smol
+Lightning|ברק|barak
+Lion|אריה|arye
+Loss|הפסד|hefsed
+Love|אהבה|ahava
+Luggage|מזוודות|mizvadot
+Mango|מנגו|mango
+Map|מפה|mapa
+March|מרץ|mertz
+May|מאי|may
+Medicine|תרופה|trufa
+Meeting|פגישה|pgisha
+Menu|תפריט|tafrit
+Monday|יום שני|yom sheni
+Money|כסף|kesef
+Mountain|הר|har
+Movie|סרט|seret
+Music|מוזיקה|muzika
+My head hurts|כואב לי הראש|koev li rosh
+Near|קרוב|karov
+Nervousness|עצבנות|atzbanut
+New|חדש|chadash
+Nineteen|תשע עשרה|tsha esre
+Ninety|תשעים|tish'im
+Nose|אף|af
+November|נובמבר|november
+October|אוקטובר|october
+Office|משרד|misrad
+Old|ישן|yashan
+On / above|מעל|me'al
+One hundred|מאה|mea
+Onion|בצל|batzal
+Outside|בחוץ|bachutz
+Pain|כאב|ke'ev
+Pants|מכנסיים|michnasayim
+Park|פארק|park
+Passport|דרכון|darkon
+Password|סיסמה|sisma
+Pet|חיית מחמד|chayat machmad
+Phone|טלפון|telefon
+Plate|צלחת|tzalachat
+Please repeat|בבקשה חזור|bevakasha chazor
+Please tell me|בבקשה תגיד לי|bevakasha tagid li
+Police|משטרה|mishtara
+Pomegranate|רימון|rimon
+Potato|תפוח אדמה|tapuach adama
+Price|מחיר|mechir
+Pride|גאוה|ga'ava
+Reception|קבלה|kabbala
+Rest|מנוחה|menucha
+Restaurant|מסעדה|misada
+Right|ימין|yamin
+River|נהר|nahar
+Road|כביש|kvish
+Room|חדר|cheder
+Run / race|לרוץ / מרוץ|larutz / merutz
+Rupee|רופי|rupi
+Sad|עצוב|atzuv
+Salt|מלח|melach
+Saturday|יום שבת|yom shabbat
+Scarf|צעיף|tzifif
+Sea|ים|yam
+Security|ביטחון|bitachon
+September|ספטמבר|september
+Seventeen|שבע עשרה|sheva esre
+Seventy|שבעים|shiv'im
+Shame|בושה|busha
+Shirt|חולצה|chultza
+Shoes|נעליים|na'alayim
+Shop|חנות|chanut
+Short|קצר|katzar
+Sixteen|שש עשרה|shesh esre
+Sixty|שישים|shishim
+Sky|שמיים|shamayim
+Snow|שלג|sheleg
+Soap|סבון|sabon
+Socks|גרביים|garbayim
+Soda|סודה|soda
+Spinach|תרד|tered
+Spoon|כף|kaf
+Storm|סופה|sufa
+Straight|ישר|yashar
+Sunday|יום ראשון|yom rishon
+Sweater|סוודר|sveder
+Table|שולחן|shulchan
+Tall|גבוה|gavoah
+Taxi|מונית|monit
+Team|קבוצה|kvutza
+Terminal|טרמינל|terminal
+The battery is low|הסוללה חלשה|ha'solala chala
+Thirteen|שלוש עשרה|shlosh esre
+Thirty|שלושים|shloshim
+This is a lion|זה אריה|ze arye
+This is a river|זה נהר|ze nahar
+This is a tomato|זה עגבנייה|ze agvaniya
+This is beautiful|זה יפה|ze yafe
+This is expensive|זה יקר|ze yakar
+This is good|זה טוב|ze tov
+This is inside|זה בפנים|ze bifnim
+This is my chair|זה הכיסא שלי|ze ha'kise sheli
+This is my dog|זה הכלב שלי|ze ha'kelev sheli
+This is my home|זה הבית שלי|ze ha'bayit sheli
+This is my jacket|זה הז'קט שלי|ze ha'jaket sheli
+This is my shirt|זה החולצה שלי|ze ha'chultza sheli
+Thunder|רעם|ra'am
+Thursday|יום חמישי|yom chamishi
+Ticket|כרטיס כניסה|kartis knisa
+Tired|עייף|ayef
+To ask|לשאול|lish'ol
+To buy|לקנות|liknot
+To come|לבוא|lavo
+To dance|לרקוד|lirkod
+To do|לעשות|la'asot
+To drink|לשתות|lishtot
+To eat|לאכול|le'echol
+To go|ללכת|lalechet
+To listen|להקשיב|lehakshiv
+To read|לקרוא|likro
+To roam / hang out|לטייל|latayel
+To see|לראות|lirot
+To sell|למכור|limkor
+To speak|לדבר|ledaber
+To understand|להבין|lehavin
+To withdraw|למשוך|limshoch
+Tomato|עגבנייה|agvaniya
+Tomorrow / Yesterday|מחר／אתמול|machar／etmol
+Tour|סיור|siyur
+Towel|מגבת|magevet
+Train|רכבת|rakevet
+Travel|נסיעה|nesiya
+Tree|עץ|etz
+Tuesday|יום שלישי|yom shlishi
+Twelve|שנים עשר|shneim asar
+Twenty|עשרים|esrim
+Under|מתחת|mitachat
+We won|ניצחנו|nitzhnu
+Wednesday|יום רביעי|yom revi'i
+Where is my gate?|איפה השער שלי?|eifo ha'sha'ar sheli?
+Where is the station?|איפה התחנה?|eifo ha'tachana?
+Win|לנצח|lenatz'ach
+Window|חלון|chalon
+Work|לעבוד|la'avod
+Worry|דאגה|deaga
+SECTION ja
+Account|口座 / アカウント|kouza / akaunto
+Ahead|前|mae
+Airport|空港|kuukou
+Angry|怒っている|okotte iru
+Animal|動物|doubutsu
+App|アプリ|apuri
+Apple|りんご|ringo
+April|四月|shigatsu
+August|八月|hachigatsu
+Bad|悪い|warui
+Banana|バナナ|banana
+Bank|銀行|ginkou
+Banknote|紙幣|shihei
+Bathroom|お風呂場|ofuroba
+Battery|電池|denchi
+Beautiful|美しい|utsukushii
+Bed|ベッド|beddo
+Behind|後ろ|ushiro
+Between|間|aida
+Bill|請求書|seikyuusho
+Bird|鳥|tori
+Blanket|毛布|moufu
+Booking|予約|yoyaku
+Bus|バス|basu
+Calm|落ち着いている|ochitsuite iru
+Cap|キャップ|kyappu
+Car|車|kuruma
+Card|カード|kaado
+Carrot|にんじん|ninjin
+Cat|猫|neko
+Chair|いす|isu
+Cheap|安い|yasui
+City|都市|toshi
+Clean|きれい|kirei
+Clothes|服|fuku
+Coffee|コーヒー|koohii
+Coin|硬貨|kouka
+Cold|寒い|samui
+Computer|パソコン|pasokon
+Cow|牛|ushi
+Coworker|同僚|douryou
+Cricket|コオロギ|koorogi
+Cucumber|きゅうり|kyuuri
+Danger|危険|kiken
+Day after tomorrow / Day before yesterday|明後日／一昨日|asatte／ototoi
+December|十二月|juunigatsu
+Delicious|おいしい|oishii
+Deposit|預金|yokin
+Discount|割引|waribiki
+Doctor|医者|isha
+Dog|犬|inu
+Door|ドア|doa
+Ear|耳|mimi
+Eighteen|十八|juuhachi
+Eighty|八十|hachijuu
+Elephant|象|zou
+Eleven|十一|juuichi
+Email|メール|meeru
+Excited|わくわくしている|wakuwaku shite iru
+Expensive|高い|takai
+Eye|目|me
+Fabric / cloth|布|nuno
+Face|顔|kao
+Fear|恐れ|osore
+February|二月|nigatsu
+Fever|熱|netsu
+Fifteen|十五|juugo
+Fifty|五十|gojuu
+Fish|魚|sakana
+Flatbread|チャパティ|chapatyi
+Flight|フライト|furaito
+Flower|花|hana
+Fog|霧|kiri
+Food (meal)|食事|shokuji
+Foot/leg|足|ashi
+Football|サッカー|sakkaa
+Fork|フォーク|fooku
+Forty|四十|yonjuu
+Fourteen|十四|juuyon
+Friday|金曜日|kin'youbi
+Game|ゲーム|geemu
+Gate|ゲート|geeto
+Glass|ガラス|garasu
+Gloves|手袋|tebukuro
+Go straight|まっすぐ行って|massugu itte
+Goat|やぎ|yagi
+Good|いい|ii
+Grapes|ぶどう|budou
+Hair|髪|kami
+Hand|手|te
+Happy|うれしい|ureshii
+Hat|帽子|boushi
+Head|頭|atama
+Health|健康|kenkou
+Help|助け|tasuke
+Horse|馬|uma
+Hospital|病院|byouin
+Hot|暑い|atsui
+How much is this?|これはいくらですか？|kore wa ikura desu ka?
+Humidity|湿度|shitsudo
+I am calm|私は落ち着いています|watashi wa ochitsuite imasu
+I am happy|私はうれしいです|watashi wa ureshii desu
+I am in the city|私は街にいます|watashi wa machi ni imasu
+I am traveling|私は旅行中です|watashi wa ryokouchuu desu
+I go|行きます|ikimasu
+I go to the office|私はオフィスに行きます|watashi wa ofisu ni ikimasu
+I have pain|いたいです|itai desu
+I need help|助けが必要です|tasuke ga hitsuyou desu
+I want a menu|メニューをください|menyuu wo kudasai
+I want a room|部屋をお願いします|heya wo onegaishimasu
+I want mango|マンゴーがほしいです|mangoo ga hoshii desu
+I want salt|塩をください|shio wo kudasai
+I want tea|お茶をください|ocha wo kudasai
+I want to withdraw money|お金を下ろしたいです|okane wo oroshitai desu
+I watch movies|映画を見ます|eiga wo mimasu
+Inside|中|naka
+Internet|インターネット|intaanetto
+Intersection|交差点|kousaten
+It is raining today|今日は雨です|kyou wa ame desu
+Jacket|ジャケット|jaketto
+January|一月|ichigatsu
+Job|仕事|shigoto
+Juice|ジュース|juusu
+July|七月|shichigatsu
+June|六月|rokugatsu
+Key|かぎ|kagi
+Kitchen|キッチン|kicchin
+Knife|ナイフ|naifu
+Left|左|hidari
+Lightning|稲妻|inazuma
+Lion|ライオン|raion
+Loss|損失|sonshitsu
+Love|愛|ai
+Luggage|荷物|nimotsu
+Mango|マンゴー|mangoo
+Map|地図|chizu
+March|三月|sangatsu
+May|五月|gogatsu
+Medicine|薬|kusuri
+Meeting|会議|kaigi
+Menu|メニュー|menyuu
+Monday|月曜日|getsuyoubi
+Money|お金|okane
+Mountain|山|yama
+Movie|映画|eiga
+Music|音楽|ongaku
+My head hurts|頭が痛い|atama ga itai
+Near|近く|chikaku
+Nervousness|緊張|kinchou
+New|新しい|atarashii
+Nineteen|十九|juukyuu
+Ninety|九十|kyuujuu
+Nose|鼻|hana
+November|十一月|juuichigatsu
+October|十月|juugatsu
+Office|オフィス|ofisu
+Old|古い|furui
+On / above|上に|ue ni
+One hundred|百|hyaku
+Onion|たまねぎ|tamanegi
+Outside|外|soto
+Pain|痛み|itami
+Pants|ズボン|zubon
+Park|公園|kouen
+Passport|パスポート|pasupooto
+Password|パスワード|pasuwaado
+Pet|ペット|petto
+Phone|電話|denwa
+Plate|皿|sara
+Please repeat|もう一度言ってください|mou ichido itte kudasai
+Please tell me|教えてください|oshiete kudasai
+Police|警察|keisatsu
+Pomegranate|ざくろ|zakuro
+Potato|じゃがいも|jagaimo
+Price|値段|nedan
+Pride|誇り|hokori
+Reception|受付|uketsuke
+Rest|休む|yasumu
+Restaurant|レストラン|resutoran
+Right|右|migi
+River|川|kawa
+Road|道路|douro
+Room|部屋|heya
+Run / race|走る / レース|hashiru / reesu
+Rupee|ルピー|rupii
+Sad|悲しい|kanashii
+Salt|塩|shio
+Saturday|土曜日|doyoubi
+Scarf|マフラー|mafuraa
+Sea|海|umi
+Security|セキュリティ|sekyuriti
+September|九月|kugatsu
+Seventeen|十七|juunana
+Seventy|七十|nanajuu
+Shame|恥|haji
+Shirt|シャツ|shatsu
+Shoes|靴|kutsu
+Shop|店|mise
+Short|短い|mijikai
+Sixteen|十六|juuroku
+Sixty|六十|rokujuu
+Sky|空|sora
+Snow|雪|yuki
+Soap|石けん|sekken
+Socks|靴下|kutsushita
+Soda|ソーダ|sooda
+Spinach|ほうれんそう|hourensou
+Spoon|スプーン|supuun
+Storm|嵐|arashi
+Straight|まっすぐ|massugu
+Sunday|日曜日|nichiyoubi
+Sweater|セーター|seetaa
+Table|テーブル|teeburu
+Tall|高い|takai
+Taxi|タクシー|takushii
+Team|チーム|chiimu
+Terminal|ターミナル|taaminaru
+The battery is low|電池が弱いです|denchi ga yowai desu
+Thirteen|十三|juusan
+Thirty|三十|sanjuu
+This is a lion|これはライオンです|kore wa raion desu
+This is a river|これは川です|kore wa kawa desu
+This is a tomato|これはトマトです|kore wa tomato desu
+This is beautiful|これは美しいです|kore wa utsukushii desu
+This is expensive|これは高いです|kore wa takai desu
+This is good|これはいいです|kore wa ii desu
+This is inside|これは中にあります|kore wa naka ni arimasu
+This is my chair|これは私のいすです|kore wa watashi no isu desu
+This is my dog|これは私の犬です|kore wa watashi no inu desu
+This is my home|これは私の家です|kore wa watashi no ie desu
+This is my jacket|これは私のジャケットです|kore wa watashi no jaketto desu
+This is my shirt|これは私のシャツです|kore wa watashi no shatsu desu
+Thunder|雷|kaminari
+Thursday|木曜日|mokuyoubi
+Ticket|切符|kippu
+Tired|つかれた|tsukareta
+To ask|たずねる|tazuneru
+To buy|買う|kau
+To come|来る|kuru
+To dance|踊る|odoru
+To do|する|suru
+To drink|飲む|nomu
+To eat|食べる|taberu
+To go|行く|iku
+To listen|聴く|kiku
+To read|読む|yomu
+To roam / hang out|ぶらぶらする|burabura suru
+To see|見る|miru
+To sell|売る|uru
+To speak|話す|hanasu
+To understand|わかる|wakaru
+To withdraw|引き出す|hikidasu
+Tomato|トマト|tomato
+Tomorrow / Yesterday|明日／昨日|ashita／kinou
+Tour|ツアー|tsuaa
+Towel|タオル|taoru
+Train|電車|densha
+Travel|旅行|ryokou
+Tree|木|ki
+Tuesday|火曜日|kayoubi
+Twelve|十二|juuni
+Twenty|二十|nijuu
+Under|下に|shita ni
+We won|勝ちました|kachimashita
+Wednesday|水曜日|suiyoubi
+Where is my gate?|私のゲートはどこですか？|watashi no geeto wa doko desu ka?
+Where is the station?|駅はどこですか？|eki wa doko desu ka?
+Win|勝つ|katsu
+Window|窓|mado
+Work|働く|hataraku
+Worry|心配する|shinpai suru
+SECTION ko
+Account|계정|gyejeong
+Ahead|앞|ap
+Airport|공항|gonghang
+Angry|화난|hwanan
+Animal|동물|dongmul
+App|앱|aeb
+Apple|사과|sagwa
+April|4월|sawol
+August|8월|palwol
+Bad|나쁜|nappeun
+Banana|바나나|banana
+Bank|은행|eunhaeng
+Banknote|지폐|jipye
+Bathroom|욕실|yoksil
+Battery|배터리|baeteori
+Beautiful|아름다운|areumdaun
+Bed|침대|chimdae
+Behind|뒤|dwi
+Between|사이|sai
+Bill|계산서|gyesanseo
+Bird|새|sae
+Blanket|담요|damyo
+Booking|예약|yeyak
+Bus|버스|beoseu
+Calm|차분한|chabunhan
+Cap|모자|moja
+Car|자동차|jadongcha
+Card|카드|kadeu
+Carrot|당근|danggeun
+Cat|고양이|goyang-i
+Chair|의자|uija
+Cheap|싼|ssan
+City|도시|dosi
+Clean|깨끗한|kkaekkeuthan
+Clothes|옷|ot
+Coffee|커피|keopi
+Coin|동전|dongjeon
+Cold|추운|chuun
+Computer|컴퓨터|keompyuteo
+Cow|소|so
+Coworker|동료|dongnyo
+Cricket|귀뚜라미|gwitturami
+Cucumber|오이|oi
+Danger|위험|wiheom
+Day after tomorrow / Day before yesterday|모레／그제|more／geuje
+December|12월|sibi-wol
+Delicious|맛있는|masinneun
+Deposit|예금|yigeum
+Discount|할인|harin
+Doctor|의사|uisa
+Dog|개|gae
+Door|문|mun
+Ear|귀|gwi
+Eighteen|열여덟|yeolyeodeol
+Eighty|여든|yeodeun
+Elephant|코끼리|kokkiri
+Eleven|열하나|yeolhana
+Email|이메일|imeil
+Excited|신난|sinnan
+Expensive|비싼|bissan
+Eye|눈|nun
+Fabric / cloth|천|cheon
+Face|얼굴|eolgul
+Fear|두려움|duryeoum
+February|2월|iwol
+Fever|열|yeol
+Fifteen|열다섯|yeoldaseot
+Fifty|쉰|swin
+Fish|생선|saengseon
+Flatbread|납작빵|napjakppang
+Flight|비행|bihaeng
+Flower|꽃|kkot
+Fog|안개|angae
+Food (meal)|음식|eumsik
+Foot/leg|다리|dari
+Football|축구|chukgu
+Fork|포크|pokeu
+Forty|마흔|maheun
+Fourteen|열넷|yeolnet
+Friday|금요일|geumyoil
+Game|게임|geim
+Gate|게이트|geiteu
+Glass|유리|yuri
+Gloves|장갑|janggap
+Go straight|직진하세요|jikjin-haseyo
+Goat|염소|yeomso
+Good|좋은|joeun
+Grapes|포도|podo
+Hair|머리카락|meorikarak
+Hand|손|son
+Happy|행복한|haengbokhan
+Hat|모자|moja
+Head|머리|meori
+Health|건강|geongang
+Help|도움|doum
+Horse|말|mal
+Hospital|병원|byeongwon
+Hot|더운|deoun
+How much is this?|이거 얼마예요?|igeo eolmayeyo?
+Humidity|습도|seupdo
+I am calm|저는 차분해요|jeoneun chabunhaeyo
+I am happy|저는 행복해요|jeoneun haengbokhaeyo
+I am in the city|저는 도시에 있어요|jeoneun dosie isseoyo
+I am traveling|저는 여행 중이에요|jeoneun yeohaeng jung-ieyo
+I go|저는 가요|jeoneun gayo
+I go to the office|저는 사무실에 가요|jeoneun samusire gayo
+I have pain|저는 아파요|jeoneun apayo
+I need help|도움이 필요해요|doumi piryohaeyo
+I want a menu|메뉴 주세요|menyu juseyo
+I want a room|방을 원해요|bang-eul wonhaeyo
+I want mango|망고 주세요|manggo juseyo
+I want salt|소금 주세요|sogeum juseyo
+I want tea|차 주세요|cha juseyo
+I want to withdraw money|돈을 찾고 싶어요|don-eul chatgo sipeoyo
+I watch movies|영화를 봐요|yeonghwareul bwayo
+Inside|안|an
+Internet|인터넷|inteonet
+Intersection|교차로|gyochalo
+It is raining today|오늘 비가 와요|oneul biga wayo
+Jacket|재킷|jaekit
+January|1월|ir-wol
+Job|직업|jigeop
+Juice|주스|juseu
+July|7월|chil-wol
+June|6월|yuk-wol
+Key|열쇠|yeolsoe
+Kitchen|부엌|bueok
+Knife|칼|kal
+Left|왼쪽|oenjjok
+Lightning|번개|beongae
+Lion|사자|saja
+Loss|손실|sonsil
+Love|사랑|sarang
+Luggage|짐|jim
+Mango|망고|manggo
+Map|지도|jido
+March|3월|sam-wol
+May|5월|o-wol
+Medicine|약|yak
+Meeting|회의|hoeui
+Menu|메뉴|menyu
+Monday|월요일|wollyoil
+Money|돈|don
+Mountain|산|san
+Movie|영화|yeonghwa
+Music|음악|eumak
+My head hurts|머리가 아파요|meoriga apayo
+Near|가까이|gakkai
+Nervousness|불안|buran
+New|새로운|saeroun
+Nineteen|열아홉|yeolahop
+Ninety|아흔|aheun
+Nose|코|ko
+November|11월|sibil-wol
+October|10월|si-wol
+Office|사무실|samusil
+Old|오래된|oraedoen
+On / above|위에|wie
+One hundred|백|baek
+Onion|양파|yangpa
+Outside|밖|bak
+Pain|아픔|appeum
+Pants|바지|baji
+Park|공원|gongwon
+Passport|여권|yeogwon
+Password|비밀번호|bimilbeonho
+Pet|애완동물|aewan-dongmul
+Phone|전화|jeonhwa
+Plate|접시|jeopsi
+Please repeat|다시 말해 주세요|dasi malhae juseyo
+Please tell me|말씀해 주세요|malssseumhae juseyo
+Police|경찰|gyeongchal
+Pomegranate|석류|seongnyu
+Potato|감자|gamja
+Price|가격|gagyeok
+Pride|자부심|jabusim
+Reception|접수대|jeopsudae
+Rest|휴식|hyusik
+Restaurant|식당|sikdang
+Right|오른쪽|oreunjjok
+River|강|gang
+Road|길|gil
+Room|방|bang
+Run / race|달리기 / 경주|dalligi / gyeongju
+Rupee|루피|rupi
+Sad|슬픈|seulpeun
+Salt|소금|sogeum
+Saturday|토요일|toyoil
+Scarf|스카프|seukapeu
+Sea|바다|bada
+Security|보안|boan
+September|9월|gu-wol
+Seventeen|열일곱|yeolilgop
+Seventy|일흔|ilheun
+Shame|부끄러움|bukkeureoum
+Shirt|셔츠|syeocheu
+Shoes|신발|sinbal
+Shop|가게|gage
+Short|짧은|jjalb-eun
+Sixteen|열여섯|yeolyeoseot
+Sixty|예순|yesun
+Sky|하늘|haneul
+Snow|눈|nun
+Soap|비누|binu
+Socks|양말|yangmal
+Soda|탄산음료|tansaneumnyo
+Spinach|시금치|sigeumchi
+Spoon|숟가락|sutgarak
+Storm|폭풍|pokpung
+Straight|똑바로|ttokbaro
+Sunday|일요일|iryoil
+Sweater|스웨터|seuweteo
+Table|탁자|takja
+Tall|키 큰|ki keun
+Taxi|택시|taeksi
+Team|팀|tim
+Terminal|터미널|teomineol
+The battery is low|배터리가 얼마 안 남았어요|baeteoriga eolma an namasseoyo
+Thirteen|열셋|yeolset
+Thirty|서른|seoreun
+This is a lion|이것은 사자예요|igeoseun sajayeyo
+This is a river|이것은 강이에요|igeoseun gang-ieyo
+This is a tomato|이것은 토마토예요|igeoseun tomatoyeyo
+This is beautiful|아름다워요|areumdawoyo
+This is expensive|비싸요|bissayo
+This is good|좋아요|joayo
+This is inside|안에 있어요|ane isseoyo
+This is my chair|이것은 제 의자예요|igeoseun je uijayeyo
+This is my dog|이것은 제 개예요|igeoseun je gaeyeyo
+This is my home|이것은 제 집이에요|igeoseun je jib-ieyo
+This is my jacket|이것은 제 재킷이에요|igeoseun je jaekis-ieyo
+This is my shirt|이것은 제 셔츠예요|igeoseun je syeocheuyeyo
+Thunder|천둥|cheondung
+Thursday|목요일|mogyoil
+Ticket|표|pyo
+Tired|피곤한|pigonhan
+To ask|묻다|mutda
+To buy|사다|sada
+To come|오다|oda
+To dance|춤추다|chumchuda
+To do|하다|hada
+To drink|마시다|masida
+To eat|먹다|meokda
+To go|가다|gada
+To listen|듣다|deutda
+To read|읽다|ikda
+To roam / hang out|놀다|nolda
+To see|보다|boda
+To sell|팔다|palda
+To speak|말하다|malhada
+To understand|이해하다|ihaehada
+To withdraw|찾다|chatda
+Tomato|토마토|tomato
+Tomorrow / Yesterday|내일／어제|naeil／eoje
+Tour|투어|tueo
+Towel|수건|sugeon
+Train|기차|gicha
+Travel|여행|yeohaeng
+Tree|나무|namu
+Tuesday|화요일|hwayoil
+Twelve|열둘|yeoldul
+Twenty|스무|seumu
+Under|아래|arae
+We won|우리가 이겼어요|uriga igyeosseoyo
+Wednesday|수요일|suyoil
+Where is my gate?|제 게이트가 어디예요?|je geiteuga eodiyeyo?
+Where is the station?|역이 어디예요?|yeogi eodiyeyo?
+Win|이기다|igida
+Window|창문|changmun
+Work|일하다|ilhada
+Worry|걱정하다|geokjeonghada
