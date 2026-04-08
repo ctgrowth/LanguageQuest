@@ -52,13 +52,19 @@ export function MatchPairsExercise({
                 key={h}
                 type="button"
                 disabled={isMatched}
-                onClick={() => setActiveHindi(h)}
+                onClick={() => setActiveHindi(isActive ? null : h)}
                 className={[
-                  'w-full rounded-2xl bg-white/70 p-4 text-left shadow-sm ring-1 transition',
-                  isMatched ? 'ring-saffron/40 bg-saffron/10' : 'ring-navy/10 hover:bg-white',
-                  isActive ? 'ring-blue-400/40 bg-blue-50' : '',
+                  'w-full rounded-2xl p-4 text-left text-sm font-extrabold shadow-sm ring-1 transition',
+                  isMatched
+                    ? 'cursor-default bg-saffron/15 ring-saffron/40 text-navy'
+                    : [
+                        'bg-white/70 ring-navy/10 text-navy',
+                        'hover:bg-[#FF8C00]/20 hover:ring-[#FF8C00]/25 hover:shadow-md',
+                        isActive ? 'bg-[#FF8C00]/20 ring-[#FF8C00]/25 shadow-md' : '',
+                      ].join(' '),
                 ].join(' ')}
                 aria-label={`Word card: ${item.english}`}
+                aria-pressed={!isMatched && isActive}
               >
                 <div className="flex items-center gap-3">
                   <VocabImage src={item.imageUrl} alt={item.english} />
@@ -92,8 +98,13 @@ export function MatchPairsExercise({
                 }}
                 className={[
                   'w-full rounded-2xl px-5 py-4 text-left text-sm font-extrabold shadow-sm ring-1 transition',
-                  'bg-white/70 ring-navy/10 hover:bg-white disabled:opacity-50',
-                  activeHindi && isCorrectForActive ? 'ring-saffron/40' : '',
+                  isUsed
+                    ? 'cursor-default bg-saffron/15 ring-saffron/40'
+                    : [
+                        'bg-white/70 ring-navy/10 text-navy',
+                        activeHindi ? 'hover:bg-[#FF8C00]/20 hover:ring-[#FF8C00]/25 hover:shadow-md' : '',
+                        'disabled:cursor-not-allowed disabled:opacity-45 disabled:hover:bg-white/70 disabled:hover:ring-navy/10 disabled:hover:shadow-none',
+                      ].join(' '),
                 ].join(' ')}
                 aria-label={`English card: ${e}`}
               >

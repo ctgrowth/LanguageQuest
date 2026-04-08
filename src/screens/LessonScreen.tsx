@@ -8,17 +8,65 @@ import { progressActions, useProgress } from '../store/progressStore'
 import { MultipleChoiceExercise } from '../components/exercises/MultipleChoice'
 import { MatchPairsExercise, type MatchPairsValue } from '../components/exercises/MatchPairs'
 import { ListenAndTypeExercise } from '../components/exercises/ListenAndType'
+import { TranslationChallengeExercise } from '../components/exercises/TranslationChallenge'
 import {
-  TranslationChallengeExercise,
+  buildTranslationTiles,
+  isTranslationOrderCorrect,
   type TranslationTile,
-} from '../components/exercises/TranslationChallenge'
-import { TypeInWordExercise, isTypeInWordCorrect } from '../components/exercises/TypeInWord'
-import { transliterateFallback } from '../utils/transliterate'
+} from '../utils/translationTiles'
+import {
+  TypeInWordExercise,
+  isListenAndTypeCorrect,
+  isTypeInWordCorrect,
+} from '../components/exercises/TypeInWord'
 import { useSettings } from '../store/settingsStore'
 import { speakTarget } from '../utils/speech'
+import type { LessonUnit } from '../data/lessonRegistry'
+import type { LanguageId } from '../languages/config'
 
-function normalizeEnglish(s: string) {
-  return s.trim().toLowerCase().replace(/\s+/g, ' ')
+const QUESTIONS_PER_LESSON = 20
+
+/** Build a pseudo-random lesson of fixed length from this unit’s vocabulary. */
+function buildLessonSteps(unit: LessonUnit, lang: LanguageId, lessonUnits: LessonUnit[]): Step[] {
+  const pool = unit.lessons.length ? shuffle([...unit.lessons]) : []
+  let k = 0
+  const nextItem = () => {
+    const item = pool[k % pool.length] ?? unit.lessons[0]
+    k += 1
+    return item
+  }
+
+  const makeMatchPairs = (): LessonItem[] => {
+    const pairs = shuffle([...unit.lessons])
+    const six = pairs.slice(0, 6)
+    if (six.length >= 6) return six
+    return [...six, ...shuffle(lessonUnits.flatMap((u) => u.lessons))].slice(0, 6)
+  }
+
+  const kinds: Step['kind'][] = ['mc', 'match']
+  const afterMatch: Step['kind'][] = ['type', 'listen', 'translate', 'mc']
+  for (let i = 2; i < QUESTIONS_PER_LESSON; i++) {
+    kinds.push(afterMatch[(i - 2) % 4])
+  }
+
+  const steps: Step[] = []
+  for (const kind of kinds) {
+    if (kind === 'match') {
+      steps.push({ kind: 'match', pairs: makeMatchPairs() })
+      continue
+    }
+    if (kind === 'translate') {
+      const item = nextItem()
+      steps.push({
+        kind: 'translate',
+        item,
+        tiles: shuffle(buildTranslationTiles(item, lang)),
+      })
+      continue
+    }
+    steps.push({ kind, item: nextItem() })
+  }
+  return steps
 }
 
 function shuffle<T>(arr: T[]) {
@@ -62,42 +110,10 @@ export function LessonScreen() {
 
   const steps: Step[] = useMemo(() => {
     if (!unit) return []
-    const items = unit.lessons
-
-    const mc1 = items[0] ?? items[items.length - 1]
-    const mc2 = items[1] ?? items[0]
-
-    const pairs = items.slice(0, 6)
-    const matchPairs = pairs.length >= 6 ? pairs : [...pairs, ...lessonUnits.flatMap((u) => u.lessons)].slice(0, 6)
-
-    const listenItem = items[2] ?? items[0]
-
-    const translateItem =
-      unit.id === 'common-phrases'
-        ? items[0] ?? items[items.length - 1]
-        : lessonUnits.find((u) => u.id === 'common-phrases')?.lessons[0] ?? items[0]
-
-    const hindiWords = translateItem.hindi.split(/\s+/).filter(Boolean)
-    const translitWords = translateItem.transliteration.split(/\s+/).filter(Boolean)
-    const tiles: TranslationTile[] = shuffle(
-      hindiWords.map((h, i) => ({
-        hindi: h,
-        transliteration:
-          lang === 'hi' ? translitWords[i] ?? transliterateFallback(h) : translitWords[i] ?? '',
-      })),
-    )
-
-    return [
-      { kind: 'mc', item: mc1 },
-      { kind: 'match', pairs: matchPairs },
-      { kind: 'type', item: items[3] ?? items[0] },
-      { kind: 'listen', item: listenItem },
-      { kind: 'translate', item: translateItem, tiles },
-      { kind: 'mc', item: mc2 },
-    ]
+    return buildLessonSteps(unit, lang, lessonUnits)
   }, [unit, lessonUnits, lang])
 
-  const totalSteps = steps.length || 5
+  const totalSteps = steps.length || QUESTIONS_PER_LESSON
 
   const [mcChoice, setMcChoice] = useState<string | null>(null)
   const [matchValue, setMatchValue] = useState<MatchPairsValue>({})
@@ -178,7 +194,7 @@ export function LessonScreen() {
         <div
           className="h-full rounded-full bg-saffron"
           style={{ width: `${Math.round((stepIndex / totalSteps) * 100)}%` }}
-          aria-label={`Progress ${stepIndex} of ${totalSteps}`}
+          aria-label={`Question ${stepIndex + 1} of ${totalSteps}`}
         />
       </div>
 
@@ -278,15 +294,13 @@ export function LessonScreen() {
             } else if (current.kind === 'match') {
               ok = Object.keys(matchValue).length >= current.pairs.length
             } else if (current.kind === 'listen') {
-              ok = normalizeEnglish(listenValue) === normalizeEnglish(current.item.english)
+              ok = isListenAndTypeCorrect(
+                current.item,
+                listenValue,
+                settings.ignoreTonesInTyping,
+              )
             } else if (current.kind === 'translate') {
-              const built = translateIndices
-                .map((i) => current.tiles[i]?.hindi)
-                .filter(Boolean)
-                .join(' ')
-                .replace(/\s+/g, ' ')
-                .trim()
-              ok = built === current.item.hindi.replace(/\s+/g, ' ').trim()
+              ok = isTranslationOrderCorrect(lang, current.item, translateIndices, current.tiles)
             } else if (current.kind === 'type') {
               ok = isTypeInWordCorrect(current.item, typeInValue, settings.ignoreTonesInTyping)
             }
@@ -316,6 +330,7 @@ export function LessonScreen() {
                 setListenValue('')
                 setTranslateIndices([])
                 setTypeInValue('')
+                setListenWrongAttempts(0)
               }
             }, 450)
           }}

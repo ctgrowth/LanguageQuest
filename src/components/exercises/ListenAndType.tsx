@@ -15,7 +15,7 @@ export function ListenAndTypeExercise({
   onChange: (v: string) => void
   showHint: boolean
 }) {
-  const placeholder = useMemo(() => 'Type the English meaning…', [])
+  const placeholder = useMemo(() => 'English, romanization, or native script…', [])
 
   return (
     <div className="space-y-6">
@@ -51,7 +51,7 @@ export function ListenAndTypeExercise({
 
       <div className="rounded-3xl bg-white/70 p-6 shadow-sm ring-1 ring-navy/10">
         <label className="text-sm font-semibold text-navy/70" htmlFor="listen-type">
-          Your answer (English)
+          Your answer
         </label>
         <input
           id="listen-type"

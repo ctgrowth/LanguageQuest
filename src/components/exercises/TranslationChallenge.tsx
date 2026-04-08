@@ -1,7 +1,8 @@
 import type { LessonItem } from '../../data/lessons'
+import type { TranslationTile } from '../../utils/translationTiles'
 import { HindiWord } from '../HindiWord'
 
-export type TranslationTile = { hindi: string; transliteration: string }
+export type { TranslationTile }
 
 export function TranslationChallengeExercise({
   item,

@@ -86,3 +86,13 @@ export function isTypeInWordCorrect(item: LessonItem, typed: string, ignoreTones
   return tRom === expectedRom
 }
 
+/** Listen step: English meaning, or same script / romanization rules as type-in (incl. optional tones). */
+export function isListenAndTypeCorrect(
+  item: LessonItem,
+  typed: string,
+  ignoreTonesInTyping: boolean,
+) {
+  if (baseNormalizeAnswer(typed) === baseNormalizeAnswer(item.english)) return true
+  return isTypeInWordCorrect(item, typed, ignoreTonesInTyping)
+}
+
