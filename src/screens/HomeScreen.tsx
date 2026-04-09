@@ -48,7 +48,10 @@ export function HomeScreen() {
 
   return (
     <div className="mx-auto flex min-h-screen max-w-3xl flex-col px-6 py-8">
-      <header className="flex items-center justify-between gap-6" dir="ltr">
+      <header
+        className="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between sm:gap-6"
+        dir="ltr"
+      >
         <div className="min-w-0">
           <div className="text-sm font-semibold tracking-wide text-navy/60">Language Quest</div>
           <div className="mt-1 text-2xl font-extrabold tracking-tight text-navy">
@@ -72,15 +75,15 @@ export function HomeScreen() {
           </select>
         </div>
 
-        <div className="flex items-center gap-4">
-          <div className="flex items-center gap-2">
-            <span aria-hidden="true">🔥</span>
-            <span className="text-sm font-bold text-navy">{progress.streak}</span>
+        <div className="flex w-full shrink-0 flex-wrap items-center justify-between gap-3 sm:w-auto sm:justify-end">
+          <div className="flex items-center gap-4">
+            <div className="flex items-center gap-2">
+              <span aria-hidden="true">🔥</span>
+              <span className="text-sm font-bold text-navy">{progress.streak}</span>
+            </div>
+            <HeartRow hearts={progress.hearts} />
           </div>
-          <HeartRow hearts={progress.hearts} />
-          <div className="hidden sm:block">
-            <ClerkGoogleButton />
-          </div>
+          <ClerkGoogleButton className="min-h-[44px] w-full min-w-0 justify-center sm:w-auto" />
         </div>
       </header>
 
