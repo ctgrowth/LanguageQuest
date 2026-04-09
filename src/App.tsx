@@ -1,11 +1,18 @@
-import { BrowserRouter, Route, Routes, useLocation } from 'react-router-dom'
+import {
+  AuthenticateWithRedirectCallback,
+  ClerkProvider,
+  RedirectToSignIn,
+  SignedIn,
+  SignedOut,
+} from '@clerk/clerk-react'
 import { AnimatePresence, motion } from 'framer-motion'
-import { SignedIn, SignedOut, RedirectToSignIn } from '@clerk/clerk-react'
+import { BrowserRouter, Route, Routes, useLocation, useNavigate } from 'react-router-dom'
+import { MissingClerkPublishableKey } from './components/MissingClerkPublishableKey'
+import { DashboardScreen } from './screens/DashboardScreen'
 import { HomeScreen } from './screens/HomeScreen'
 import { LessonScreen } from './screens/LessonScreen'
 import { ProfileScreen } from './screens/ProfileScreen'
 import { SettingsScreen } from './screens/SettingsScreen'
-import { DashboardScreen } from './screens/DashboardScreen'
 
 function RouteTransitions() {
   const location = useLocation()
@@ -25,6 +32,15 @@ function RouteTransitions() {
           <Route path="/profile" element={<ProfileScreen />} />
           <Route path="/settings" element={<SettingsScreen />} />
           <Route
+            path="/sso-callback"
+            element={
+              <AuthenticateWithRedirectCallback
+                signInFallbackRedirectUrl="/dashboard"
+                signUpFallbackRedirectUrl="/dashboard"
+              />
+            }
+          />
+          <Route
             path="/dashboard"
             element={
               <>
@@ -43,12 +59,34 @@ function RouteTransitions() {
   )
 }
 
-function App() {
+function ClerkProviderWithRouter({ publishableKey }: { publishableKey: string }) {
+  const navigate = useNavigate()
   return (
-    <BrowserRouter>
+    <ClerkProvider
+      publishableKey={publishableKey}
+      signInFallbackRedirectUrl="/dashboard"
+      signUpFallbackRedirectUrl="/dashboard"
+      routerPush={(to) => {
+        void navigate(to)
+      }}
+      routerReplace={(to) => {
+        void navigate(to, { replace: true })
+      }}
+    >
       <RouteTransitions />
-    </BrowserRouter>
+    </ClerkProvider>
   )
 }
 
-export default App
+export default function App({ clerkPublishableKey }: { clerkPublishableKey: string }) {
+  const key = clerkPublishableKey.trim()
+  if (!key) {
+    return <MissingClerkPublishableKey />
+  }
+
+  return (
+    <BrowserRouter>
+      <ClerkProviderWithRouter publishableKey={key} />
+    </BrowserRouter>
+  )
+}

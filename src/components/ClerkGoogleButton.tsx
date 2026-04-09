@@ -23,9 +23,10 @@ export function ClerkGoogleButton({
         return
       }
       if (!signIn) throw new Error('Clerk is not ready yet. Try again in a moment.')
+      // OAuth must return to /sso-callback first; that route runs AuthenticateWithRedirectCallback.
       await signIn.authenticateWithRedirect({
         strategy: 'oauth_google',
-        redirectUrl: redirectTo,
+        redirectUrl: '/sso-callback',
         redirectUrlComplete: redirectTo,
       })
     } catch (e) {
