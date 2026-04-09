@@ -182,7 +182,7 @@ export function LessonScreen() {
 
   return (
     <div className="mx-auto flex min-h-screen max-w-3xl flex-col px-6 py-8">
-      <header className="flex items-center justify-between gap-4">
+      <header className="flex items-center justify-between gap-4" dir="ltr">
         <Link to="/" className="text-sm font-bold text-navy/70 hover:text-navy">
           ← Home
         </Link>

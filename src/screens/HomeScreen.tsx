@@ -48,7 +48,7 @@ export function HomeScreen() {
 
   return (
     <div className="mx-auto flex min-h-screen max-w-3xl flex-col px-6 py-8">
-      <header className="flex items-center justify-between gap-6">
+      <header className="flex items-center justify-between gap-6" dir="ltr">
         <div className="min-w-0">
           <div className="text-sm font-semibold tracking-wide text-navy/60">Language Quest</div>
           <div className="mt-1 text-2xl font-extrabold tracking-tight text-navy">
@@ -84,7 +84,7 @@ export function HomeScreen() {
         </div>
       </header>
 
-      <div className="mt-6 rounded-2xl bg-white/70 p-4 shadow-sm ring-1 ring-navy/10">
+      <div className="mt-6 rounded-2xl bg-white/70 p-4 shadow-sm ring-1 ring-navy/10" dir="ltr">
         <div className="flex items-center justify-between gap-4">
           <div className="text-sm font-semibold text-navy/70">
             Level {level}
@@ -169,7 +169,7 @@ export function HomeScreen() {
         </div>
       </main>
 
-      <footer className="mt-10 flex items-center justify-between rounded-2xl bg-white/70 p-4 shadow-sm ring-1 ring-navy/10">
+      <footer className="mt-10 flex items-center justify-between rounded-2xl bg-white/70 p-4 shadow-sm ring-1 ring-navy/10" dir="ltr">
         <Link to="/" className="text-sm font-bold text-navy">
           Home
         </Link>

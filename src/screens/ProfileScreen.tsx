@@ -27,7 +27,7 @@ export function ProfileScreen() {
 
   return (
     <div className="mx-auto flex min-h-screen max-w-3xl flex-col px-6 py-8">
-      <header className="flex items-center justify-between">
+      <header className="flex items-center justify-between" dir="ltr">
         <div>
           <div className="text-sm font-semibold tracking-wide text-navy/60">Profile</div>
           <div className="mt-1 text-2xl font-extrabold tracking-tight text-navy">Your progress</div>
