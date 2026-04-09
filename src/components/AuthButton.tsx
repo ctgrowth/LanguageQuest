@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import { getMissingFirebaseEnvKeys, isFirebaseConfigured } from '../firebase'
 import { authActions, useAuthUser } from '../store/authStore'
 
 export function AuthButton() {
@@ -53,7 +54,31 @@ export function AuthButton() {
         </button>
       )}
 
-      {error ? <div className="text-xs font-bold text-red-700">{error}</div> : null}
+      {error ? (
+        <div className="max-w-md text-left text-xs font-bold leading-snug text-red-700">{error}</div>
+      ) : null}
+      {!user && !isFirebaseConfigured() && import.meta.env.DEV ? (
+        <p className="max-w-sm text-left text-xs text-navy/60">
+          Add a <code className="rounded bg-navy/10 px-1">.env</code> (see{' '}
+          <code className="rounded bg-navy/10 px-1">.env.example</code>) with all six{' '}
+          <code className="rounded bg-navy/10 px-1">VITE_FIREBASE_*</code> keys, then restart{' '}
+          <code className="rounded bg-navy/10 px-1">npm run dev</code>.
+          {getMissingFirebaseEnvKeys().length ? (
+            <>
+              {' '}
+              Missing: <span className="font-bold">{getMissingFirebaseEnvKeys().join(', ')}</span>.
+            </>
+          ) : null}
+        </p>
+      ) : null}
+      {!user && !isFirebaseConfigured() && import.meta.env.PROD ? (
+        <p className="max-w-sm text-left text-xs text-navy/60">
+          Deployed without Firebase keys. In Vercel, set all six{' '}
+          <code className="rounded bg-navy/10 px-1">VITE_FIREBASE_*</code> variables for{' '}
+          <strong className="text-navy">Production</strong> and redeploy. In Firebase Auth, allow this
+          domain and enable Google.
+        </p>
+      ) : null}
     </div>
   )
 }

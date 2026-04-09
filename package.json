@@ -4,12 +4,14 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "check-env": "node scripts/check-firebase-env.mjs",
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
   "dependencies": {
+    "@clerk/clerk-react": "^5.61.4",
     "@tailwindcss/vite": "^4.2.2",
     "canvas-confetti": "^1.9.4",
     "firebase": "^12.11.0",

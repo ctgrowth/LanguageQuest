@@ -4,7 +4,8 @@ import { getLessonUnits } from '../data/lessonRegistry'
 import { LANG_CONFIG, LANGUAGE_ORDER, type LanguageId } from '../languages/config'
 import { useLanguage } from '../store/languageStore'
 import { getLevelProgress, progressActions, useProgress } from '../store/progressStore'
-import { AuthButton } from '../components/AuthButton'
+import { ClerkGoogleButton } from '../components/ClerkGoogleButton'
+import { SignedIn } from '@clerk/clerk-react'
 
 function HeartRow({ hearts }: { hearts: number }) {
   return (
@@ -78,7 +79,7 @@ export function HomeScreen() {
           </div>
           <HeartRow hearts={progress.hearts} />
           <div className="hidden sm:block">
-            <AuthButton />
+            <ClerkGoogleButton />
           </div>
         </div>
       </header>
@@ -172,6 +173,11 @@ export function HomeScreen() {
         <Link to="/" className="text-sm font-bold text-navy">
           Home
         </Link>
+        <SignedIn>
+          <Link to="/dashboard" className="text-sm font-bold text-navy/70 hover:text-navy">
+            Dashboard
+          </Link>
+        </SignedIn>
         <Link to="/profile" className="text-sm font-bold text-navy/70 hover:text-navy">
           Profile
         </Link>

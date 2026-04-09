@@ -7,6 +7,15 @@ function env(name: string) {
   return (import.meta as unknown as { env: Record<string, string | undefined> }).env[name]
 }
 
+const FIREBASE_ENV_KEYS = [
+  'VITE_FIREBASE_API_KEY',
+  'VITE_FIREBASE_AUTH_DOMAIN',
+  'VITE_FIREBASE_PROJECT_ID',
+  'VITE_FIREBASE_STORAGE_BUCKET',
+  'VITE_FIREBASE_MESSAGING_SENDER_ID',
+  'VITE_FIREBASE_APP_ID',
+] as const
+
 const firebaseConfig = {
   apiKey: env('VITE_FIREBASE_API_KEY'),
   authDomain: env('VITE_FIREBASE_AUTH_DOMAIN'),
@@ -17,7 +26,23 @@ const firebaseConfig = {
 }
 
 function hasConfig() {
-  return Boolean(firebaseConfig.apiKey && firebaseConfig.authDomain && firebaseConfig.projectId)
+  return FIREBASE_ENV_KEYS.every((k) => {
+    const v = env(k)
+    return Boolean(v && String(v).trim())
+  })
+}
+
+/** Env keys present in import.meta.env but empty or unset (names only, for debugging). */
+export function getMissingFirebaseEnvKeys(): string[] {
+  return FIREBASE_ENV_KEYS.filter((k) => {
+    const v = env(k)
+    return !v || !String(v).trim()
+  })
+}
+
+/** True when Vite embedded the full Firebase Web app config (build-time for production). */
+export function isFirebaseConfigured() {
+  return hasConfig()
 }
 
 let app: FirebaseApp | null = null

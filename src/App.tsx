@@ -1,9 +1,11 @@
 import { BrowserRouter, Route, Routes, useLocation } from 'react-router-dom'
 import { AnimatePresence, motion } from 'framer-motion'
+import { SignedIn, SignedOut, RedirectToSignIn } from '@clerk/clerk-react'
 import { HomeScreen } from './screens/HomeScreen'
 import { LessonScreen } from './screens/LessonScreen'
 import { ProfileScreen } from './screens/ProfileScreen'
 import { SettingsScreen } from './screens/SettingsScreen'
+import { DashboardScreen } from './screens/DashboardScreen'
 
 function RouteTransitions() {
   const location = useLocation()
@@ -22,6 +24,19 @@ function RouteTransitions() {
           <Route path="/lesson/:unitId" element={<LessonScreen />} />
           <Route path="/profile" element={<ProfileScreen />} />
           <Route path="/settings" element={<SettingsScreen />} />
+          <Route
+            path="/dashboard"
+            element={
+              <>
+                <SignedIn>
+                  <DashboardScreen />
+                </SignedIn>
+                <SignedOut>
+                  <RedirectToSignIn redirectUrl="/dashboard" />
+                </SignedOut>
+              </>
+            }
+          />
         </Routes>
       </motion.div>
     </AnimatePresence>
